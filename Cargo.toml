@@ -1,0 +1,8 @@
+[package]
+name = "file_upload_error"
+version = "0.1.0"
+authors = ["Nolan Darilek <nolan@thewordnerd.info>"]
+
+[dependencies]
+stdweb = {git = "https://github.com/koute/stdweb"}
+yew = {git = "https://github.com/DenisKolodin/yew"}
